@@ -60,4 +60,5 @@ public class BoardContoroller {
         return "redirect:/board/list";
     }
 
+
 }
