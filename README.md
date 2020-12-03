@@ -2,15 +2,15 @@
 
 
 ### 사용 Tool
-1.Spring Boot
-2.Intellij
-3.Java8
-4.Thyemelaf
-5.Bootstrap
-6.MariaDB
-7.JPA
-8.Spring Security
-9.vscode
+1. Spring Boot
+2. Intellij
+3. Java8
+4. Thyemelaf
+5. Bootstrap
+6. MariaDB
+7. JPA
+8. Spring Security
+9. vscode
 
 
 ### 연습 내용
